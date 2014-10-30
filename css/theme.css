@@ -1,0 +1,95 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+body {
+	padding-top: 30px;
+	background: #CFCECC url(../content/BG2.jpg) no-repeat center top;
+	background-size: cover;
+}
+
+a, .brand-pri {
+	color:#D30422;
+}
+a:hover, a:focus {
+	color: #6C0403;
+}
+
+.grid-row {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+@media (max-width: 767px) {
+  
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+}
+@media (min-width: 1200px) {
+  
+}
+
+.panel-title {
+	font-weight: bold;
+}
+
+.landing-promo p {
+	margin-bottom: 15px;
+	font-size: 16px;
+	font-weight: 200;
+	
+}
+@media (max-width: 767px) {
+	.landing-promo p {
+		font-size: 14px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.landing-promo p {
+		font-size: 14px;
+	}
+}
+
+.landing-promo {
+	background-color: #eee;
+	background-color: rgba(238,238,238,.97);
+	padding: 20px;
+
+}
+
+.landing-promo.has-jobs {
+	min-width: 600px;
+}
+.landing-promo p.hero {
+	font-size: 26px;
+	
+}
+@media (max-width: 767px) {
+	.landing-promo p.hero {
+		font-size: 20px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.landing-promo p.hero {
+		font-size: 22px;
+	}
+}
